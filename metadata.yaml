@@ -1,0 +1,35 @@
+_repo: Angelic-Wisdom-about-Divine-Providence_18507
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Wunsch, William F. (William Frederic)
+    alias: Wunsch, William Frederic
+    birthdate: 1882
+    deathdate: 1969
+    gutenberg_agent_id: '6267'
+    url: http://www.gutenberg.org/2009/agents/6267
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swedenborg, Emanuel
+    birthdate: 1688
+    deathdate: 1772
+    gutenberg_agent_id: '3899'
+    url: http://www.gutenberg.org/2009/agents/3899
+    wikipedia: http://en.wikipedia.org/wiki/Emanuel_Swedenborg
+description: ''
+gutenberg_issued: '2006-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18507'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Providence and government of God -- Christianity'
+- !lcc 'BX'
+title: Angelic Wisdom about Divine Providence
+url: http://www.gutenberg.org/ebooks/18507
